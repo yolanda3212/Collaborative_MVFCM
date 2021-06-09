@@ -8,13 +8,13 @@ Link: https://www.sciencedirect.com/science/article/abs/pii/S003132032100251X <b
 Main Function: MSRC_CoFWMVFCM
 
 ## In case the repository or the publication was helpful in your work, please use the following to cite the original paper,
-@article{yang2021collaborative,
-  title={Collaborative feature-weighted multi-view fuzzy c-means clustering},
-  author={Yang, Miin-Shen and Sinaga, Kristina P},
-  journal={Pattern Recognition},
-  pages={108064},
-  year={2021},
-  publisher={Elsevier}
+@article{yang2021collaborative,<br />
+  title={Collaborative feature-weighted multi-view fuzzy c-means clustering},<br />
+  author={Yang, Miin-Shen and Sinaga, Kristina P},<br />
+  journal={Pattern Recognition},<br />
+  pages={108064},<br />
+  year={2021},<br />
+  publisher={Elsevier}<br />
 }
 
 ### Abstract:
