@@ -1,3 +1,5 @@
+% Written by Kristina Pestaria Sinaga (kristinasinaga57@yahoo.co.id)
+
 clear all;close all;clc
 
 load MSRC.mat
