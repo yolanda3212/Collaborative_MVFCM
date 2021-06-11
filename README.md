@@ -1,7 +1,7 @@
 # Collaborative_MVFCM
 A matlab implementation of paper "Collaborative feature-weighted multi-view fuzzy c-means clustering."
 
-Accepted in Pattern Recognition '21 <br />
+Published in Pattern Recognition '21 <br />
 
 Link: https://www.sciencedirect.com/science/article/abs/pii/S003132032100251X <br />
 
